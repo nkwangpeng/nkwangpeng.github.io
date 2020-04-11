@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nkwangpeng.github.io/about/index.html</loc>
+    
+    <lastmod>2020-04-11T07:45:51.784Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nkwangpeng.github.io/link/index.html</loc>
+    
+    <lastmod>2020-04-11T07:32:48.650Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nkwangpeng.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-04-11T07:10:27.148Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nkwangpeng.github.io/tags/index.html</loc>
     
-    <lastmod>2020-04-09T12:41:30.329Z</lastmod>
+    <lastmod>2020-04-11T07:09:23.465Z</lastmod>
     
   </url>
   
