@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nkwangpeng.github.io/2020/04/09/hello-world/</loc>
+    
+    <lastmod>2020-04-11T08:17:59.700Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nkwangpeng.github.io/about/index.html</loc>
     
     <lastmod>2020-04-11T07:45:51.784Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://nkwangpeng.github.io/tags/index-1.html</loc>
     
     <lastmod>2020-04-09T12:40:22.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nkwangpeng.github.io/2020/04/09/hello-world/</loc>
-    
-    <lastmod>2020-04-09T08:05:34.594Z</lastmod>
     
   </url>
   
