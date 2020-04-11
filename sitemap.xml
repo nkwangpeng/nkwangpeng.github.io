@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nkwangpeng.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-04-11T09:36:24.272Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nkwangpeng.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-04-11T09:36:17.490Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nkwangpeng.github.io/link/index.html</loc>
+    
+    <lastmod>2020-04-11T09:28:20.913Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nkwangpeng.github.io/2020/04/09/hello-world/</loc>
+    
+    <lastmod>2020-04-11T09:22:47.191Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nkwangpeng.github.io/tags/index-1.html</loc>
     
     <lastmod>2020-04-11T09:18:47.602Z</lastmod>
@@ -9,37 +37,9 @@
   </url>
   
   <url>
-    <loc>https://nkwangpeng.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-04-11T09:18:23.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nkwangpeng.github.io/2020/04/09/hello-world/</loc>
-    
-    <lastmod>2020-04-11T08:21:05.637Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nkwangpeng.github.io/about/index.html</loc>
     
     <lastmod>2020-04-11T07:45:51.784Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nkwangpeng.github.io/link/index.html</loc>
-    
-    <lastmod>2020-04-11T07:32:48.650Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nkwangpeng.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-04-11T07:10:27.148Z</lastmod>
     
   </url>
   

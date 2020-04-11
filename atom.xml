@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nkwangpeng.github.io/"/>
-  <updated>2020-04-11T08:21:05.637Z</updated>
+  <updated>2020-04-11T09:22:47.191Z</updated>
   <id>https://nkwangpeng.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://nkwangpeng.github.io/2020/04/09/hello-world/"/>
     <id>https://nkwangpeng.github.io/2020/04/09/hello-world/</id>
     <published>2020-04-09T07:30:21.391Z</published>
-    <updated>2020-04-11T08:21:05.637Z</updated>
+    <updated>2020-04-11T09:22:47.191Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h2 id="这是我的第一篇文章。真的很高兴我能有记录生活的想法。今后我会在此分享我的生活以及学习心得！"><a href="#这是我的第一篇文章。真的很高兴我能有记录生活的想法。今后我会在此分享我的生活以及学习心得！" class="headerlink" title="这是我的第一篇文章。真的很高兴我能有记录生活的想法。今后我会在此分享我的生活以及学习心得！"></a>这是我的第一篇文章。真的很高兴我能有记录生活的想法。今后我会在此分享我的生活以及学习心得！</h2>]]></content>
     
@@ -35,6 +35,10 @@
     </summary>
     
     
+      <category term="hexo" scheme="https://nkwangpeng.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://nkwangpeng.github.io/tags/hexo/"/>
     
   </entry>
   
