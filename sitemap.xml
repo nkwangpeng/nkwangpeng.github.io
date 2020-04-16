@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nkwangpeng.github.io/about/index.html</loc>
+    
+    <lastmod>2020-04-16T06:06:55.348Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nkwangpeng.github.io/Music/index.html</loc>
+    
+    <lastmod>2020-04-16T05:16:40.465Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nkwangpeng.github.io/2020/04/14/Closet-Point/</loc>
     
     <lastmod>2020-04-14T10:30:23.788Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://nkwangpeng.github.io/2020/04/11/hexo-Github/hexo-Github/</loc>
     
     <lastmod>2020-04-14T08:52:54.360Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nkwangpeng.github.io/Music/index.html</loc>
-    
-    <lastmod>2020-04-13T14:09:27.450Z</lastmod>
     
   </url>
   
@@ -54,13 +61,6 @@
     <loc>https://nkwangpeng.github.io/tags/index-1.html</loc>
     
     <lastmod>2020-04-11T09:18:47.602Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nkwangpeng.github.io/about/index.html</loc>
-    
-    <lastmod>2020-04-11T07:45:51.784Z</lastmod>
     
   </url>
   
